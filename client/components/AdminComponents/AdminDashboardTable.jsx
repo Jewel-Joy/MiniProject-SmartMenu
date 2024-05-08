@@ -38,7 +38,7 @@ const AdminDashboardTable = () => {
 
   return (
     <TableContainer component={Paper}>
-      <StyledTable aria-label="food items table">
+      <StyledTable aria-label="Food Items Table">
         <TableHead>
           <TableRow>
             <TableCell>Food Name</TableCell>
